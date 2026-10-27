@@ -42,3 +42,24 @@ The Wazuh manager confirmed this alert for agent `kali-agent`.
 - Security event monitoring
 - Custom Wazuh detection rule creation
 - Alert verification using Wazuh logs
+
+## Dashboard Screenshots
+
+### Screenshot 1: Custom Alert in Threat Hunting Events
+
+Custom Wazuh rule `100100` successfully detected the test event from the Kali Linux agent.
+
+### Screenshot 2: Kali Agent Threat Hunting Dashboard
+
+The dashboard displays the custom alert and agent monitoring information.
+
+### Screenshot 3: Custom Alert Verification
+
+The Events page confirms the custom alert with rule ID `100100` and severity level `5`.
+
+![Screenshot 3](Screenshot_27-10-2026_192150_192.168.31.44.jpeg)
+
+
+## Project Documentation
+
+[Download SOC Monitor Lab Report (PDF)](SOC%20MONITOR%20LAB.pdf)
