@@ -23,7 +23,7 @@ A home lab project for monitoring security events using Wazuh SIEM. This project
 ## Pending Tasks
 - [x] Verify custom alert in Dashboard Events
 - [x] Capture screenshots of the dashboard
-- [ ] Complete final project documentation
+- [x] Complete final project documentation
 
 ## Custom Alert Test
 Test event generated on Kali Linux:
