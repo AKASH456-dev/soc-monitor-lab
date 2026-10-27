@@ -21,8 +21,8 @@ A home lab project for monitoring security events using Wazuh SIEM. This project
 - [x] Project repository published on GitHub
 
 ## Pending Tasks
-- [ ] Verify custom alert in Dashboard Events
-- [ ] Capture screenshots of the dashboard
+- [x] Verify custom alert in Dashboard Events
+- [x] Capture screenshots of the dashboard
 - [ ] Complete final project documentation
 
 ## Custom Alert Test
